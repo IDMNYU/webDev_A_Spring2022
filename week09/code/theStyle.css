@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+button {
+    padding:20vw;
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+
+button:hover {
+    background-color: yellow;
+}
